@@ -1,5 +1,5 @@
 # 💫 Naveed Hussain Shah:
-<br>- 🔭 I’m currently working on Fiverr<br>- 🌱 I’m am currently learning about Machine Learning in Flutter<br>- 👯 I’m looking to collaborate on technology sharing <br>- 🤔 I’m looking for help with ChatBot implementaion in Social Application<br>- 💬 Ask me about Flutter and related code<br>- 📫 How to reach me: Linded In ; Naveed Hussain Shah : Email ; hnaveed061@gmail.com<br>- 😄 Pronouns: He / Him<br>- ⚡ Fun fact: ...
+<br>- 🔭 I’m currently working on Fiverr<br>- 🌱 I’m am currently learning Flutter Stack Development using Flutter, Djando, Rust, Python, API creation and calling<br>- 👯 I’m looking to collaborate on technology sharing <br>- 🤔 I’m looking for help with ChatBot implementaion in Social Application<br>- 💬 Ask me about Flutter and related code<br>- 📫 How to reach me: Linded In ; Naveed Hussain Shah : Email ; hnaveed061@gmail.com<br>- 😄 Pronouns: He / Him<br>- ⚡ Fun fact: ...
 
 
 ## 🌐 Socials:
