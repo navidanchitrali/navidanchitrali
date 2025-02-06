@@ -1,5 +1,9 @@
 # 💫 Naveed Hussain Shah:
-<br>- 🔭 I’m currently working in Precise Tech Canada<br>- 🌱 I’m am currently learning Full Stack Development using Flutter, Node JS and Laravel <br>- 👯 I’m looking to collaborate on technology sharing <br>- 🤔 I’m looking for help with ChatBot implementaion in Social Application<br>- 💬 Ask me about Flutter and related code<br>- 📫 How to reach me: Linded In ; Naveed Hussain Shah : Email ; hnaveed061@gmail.com<br>- 😄 Pronouns: He / Him<br>- ⚡ Fun fact: ...
+As an experienced Flutter developer proficient in MVVM architecture, Firebase, and responsive application design, I offer a deep understanding of contemporary development methodologies to each endeavor. With a knack for seamless API integration, I facilitate fluid communication among system components. My dedication to creating intuitive user experiences drives me to deliver solutions that are visually appealing and exceptionally practical.
+
+Recently, I contributed to the development of several cross-platform applications, including the Natural Calm Canada WMS App, which streamlined warehouse operations for inventory management, order processing, and product transfers, and the Natural Calm Ecommerce App for easy browsing and purchasing of Natural Calm products. I also worked on the Sowa Ecommerce App, enhancing the user experience for customers to browse and purchase Sowa products.
+
+Furthermore, I am actively expanding my skill set by focusing on Full Stack development, mastering Laravel and Node.js alongside Flutter to broaden my capabilities and contribute more comprehensively to innovative projects.
 
 
 ## 🌐 Socials:
